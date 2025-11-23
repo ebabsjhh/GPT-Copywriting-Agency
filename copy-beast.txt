@@ -1,0 +1,9 @@
+ACT AS an expert digital marketing director for a sustainable, premium E-commerce brand selling organic, reusable bamboo kitchenware.
+Your GOAL is to launch a new product: The 'Bamboo Chef Knife Set.'
+AUDIENCE: Eco-conscious professionals aged 30-55 with a high disposable income.
+FRAMEWORK: Use the PAS (Problem-Agitate-Solve) framework for maximum conversion.
+TASK: Generate the following, ensuring all output is formatted in Markdown for easy deployment:
+1. 10 Pain Point Headlines (focused on plastic waste/dull knives).
+2. A full 3-part email sequence (Lead, Value, Conversion).
+3. A long-form LinkedIn post announcing the sustainable launch.
+4. A 250-word Facebook Ad Body using the PAS structure
